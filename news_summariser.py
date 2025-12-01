@@ -39,9 +39,6 @@ def voice_summary(text):
      engine.runAndWait()
 
 
-
-
-
 if __name__ == "__main__":
 
   url = "https://www.thedailyjagran.com/india/delhi-aqi-update-air-quality-slips-to-298-nears-very-poor-category-after-single-day-respite-check-area-wise-data-10283157"
@@ -60,6 +57,7 @@ if __name__ == "__main__":
 
 
 print("Thank you for using news summariser")
+
 
 
 
